@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -31,4 +31,4 @@ I am a fourth year Ph.D. student in Robotics and AI at the Collaborative Robotic
 
 I graduated with a Masters in Robotics from University of Michigan in May 2021. At UM, I worked at the Laboratory for Progress directed by Professor Chad Jenkins, and at the UM Ford Center for Autonomous Vehicles. I completed my Bachelors in Electronics and Communication Engineering from VNIT Nagpur, India in May 2018.
 
-My primary research interests are Multiple Robot Systems, Distributed AI, Game Theory, Planning under Uncertainty. 
+My primary research interests are Multiple Robot Systems, Distributed AI, Game Theory, Planning under Uncertainty.
